@@ -1,0 +1,9 @@
+Project,Department,Month,KPI,KPI Value
+Budget Analysis,Finance,Jan,Report Accuracy (%),95
+Budget Analysis,Finance,Feb,Report Accuracy (%),97
+Supply Chain,Operations,Jan,On-Time Delivery (%),88
+Supply Chain,Operations,Feb,On-Time Delivery (%),92
+Training 2025,HR,Jan,Employee Satisfaction (%),85
+Training 2025,HR,Feb,Employee Satisfaction (%),87
+System Upgrade,IT,Jan,Server Uptime (%),98
+System Upgrade,IT,Feb,Server Uptime (%),99
