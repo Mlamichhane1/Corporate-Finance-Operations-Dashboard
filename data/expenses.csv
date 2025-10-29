@@ -1,0 +1,9 @@
+Department,Month,Expense Type,Amount ($)
+Finance,Jan,Software Subscriptions,1200
+Finance,Feb,Office Supplies,800
+Operations,Jan,Maintenance,2400
+Operations,Feb,Travel,1800
+HR,Jan,Training,1000
+HR,Feb,Recruitment,1500
+IT,Jan,Cloud Services,3000
+IT,Feb,Hardware,2700
